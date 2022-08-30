@@ -1,0 +1,14 @@
+﻿[
+  {
+    "outputFile": "wwwroot/css/Site.css",
+    "inputFile": "wwwroot/css/Site.less"
+  },
+  {
+    "outputFile": "Shared/Header.razor.css",
+    "inputFile": "Shared/Header.razor.less"
+  },
+  {
+    "outputFile": "wwwroot/css/header.css",
+    "inputFile": "wwwroot/css/header.less"
+  }
+]
